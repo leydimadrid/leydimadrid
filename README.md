@@ -9,3 +9,4 @@ Soy una persona creativa, organizada y orientada a los resultados. Me enorgullec
 - REACT
 - TAILWIND
 
+<img src="{[BadgeURLHere](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white}" /> 
