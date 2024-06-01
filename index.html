@@ -1,12 +1,91 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <h1>Este es un sitio web con GitHub Pages</h1>
-    <p>Y fue creado con amor para el Curso de Git y GitHub de Platzi</p>   
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="CSS/styles.css" type="text/css" />
+    <title>Mi portafolio</title>
+  </head>
+  <body>
+    <main>
+      <nav>
+        <ul>
+          <li>Acerca de mí</li>
+          <li>Servicios</li>
+          <li>Contacto</li>
+        </ul>
+      </nav>
+
+      <h1>Mi portafolio</h1>
+      <!--Navegación-->
+      <img
+        src="/PracticaEjerciciosLeydiMadrid/HTML/assets/ejemplo.jpg"
+        width="30%"
+      />
+
+      <!--Sección Acerca de mí-->
+      <h2>Mis habilidades</h2>
+      <section class="article">
+        <article class="box1">Contenido 1</article>
+        <article class="box2"> Contenido 2</article>
+      </section>
+      <ul style="list-style-type: circle">
+        <li>Habilidad</li>
+        <li>Habilidad</li>
+        <li>Habilidad</li>
+        <li>Habilidad</li>
+      </ul>
+      <ol>
+        <li>Habilidad 2</li>
+        <li>Habilidad 2</li>
+        <li>Habilidad 2</li>
+        <li>Habilidad 2</li>
+      </ol>
+      <!--Sección Contacto-->
+      <section>
+        <hgroup>
+          <h2>Contacto</h2>
+          <p>Acá encontrarás toda la info de contacto</p>
+        </hgroup>
+        <div>
+          <fieldset>
+            <legend>Contacto</legend>
+            <form>
+              <label for="nombre">Nombre completo</label>
+              <input
+                type="text"
+                id="nombre"
+                placeholder="Nombre completo"
+                required
+              />
+              <br />
+              <label for="telefono">Télefono</label>
+              <input
+                type="text"
+                id="telefono"
+                placeholder="Télefono"
+                required
+              />
+              <br />
+              <label for="Mensaje">Mensaje</label>
+              <input type="text" id="mensaje" placeholder="Mensaje" required />
+              <br />
+              <label for="cita">Elige una fecha para reservar</label>
+              <input type="datetime-local" id="cita" />
+              <input type="submit" value="submit" />
+            </form>
+          </fieldset>
+        </div>
+      </section>
+      <!--Redes sociales-->
+      <footer>
+        <a href="https://www.behance.net/LeydiMadrid" target="_blank"
+          >Behance</a
+        >
+        <a href="https://www.linkedin.com/in/leydimadrid/" target="_blank"
+          >LinkedIn</a
+        >
+      </footer>
+    </main>
+  </body>
 </html>
