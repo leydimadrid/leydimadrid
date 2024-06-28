@@ -1,5 +1,8 @@
-**¡Hola! Soy Leydi 👋**
-Soy una persona creativa ✒️, organizada y orientada a los resultados. Me enorgullece mi capacidad para trabajar en equipo y colaborar estrechamente con mis clientes para garantizar su satisfacción en cada etapa del proyecto.
+# ¡Hola! Soy Leydi 👋
+
+---
+
+¡Bienvenido a mi perfil de GitHub! Soy una persona creativa ✒️, organizada y orientada a los resultados. Me enorgullece mi capacidad para trabajar en equipo y colaborar estrechamente con mis clientes para garantizar su satisfacción en cada etapa del proyecto. Tengo una fuerte pasión por el desarrollo de soluciones innovadoras y siempre busco mejorar mis habilidades y aprender nuevas tecnologías.
 
 >⚒️**Lenguajes y herramientas:**
 
