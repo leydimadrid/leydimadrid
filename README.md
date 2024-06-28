@@ -1,4 +1,4 @@
-# ¡Hola! Soy Leydi 👋
+# ¡Hola! Soy Leydi 😁
 
 ---
 
@@ -20,8 +20,8 @@ Soy apasionada por el desarrollo de soluciones innovadoras que resuelvan problem
 
 ## 📫 Contacto
 
-- [Correo electrónico](leydi.madrid6@gmail.com)
-- [LinkedIn](www.linkedin.com/in/leydimadrid)
+- Correo electrónico: leydi.madrid6@gmail.com
+- LinkedIn: www.linkedin.com/in/leydimadrid
 
 ---
 
