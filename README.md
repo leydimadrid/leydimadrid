@@ -27,7 +27,7 @@
 
 **LinkedIn:** www.linkedin.com/in/leydimadrid
 
-🌐 **Portafolio:** [[Enlace aquí]](https://portafolioleydimadrid.netlify.app/)  
+🌐 **Portafolio:** https://portafolioleydimadrid.netlify.app/
 
 
 ---
