@@ -1,5 +1,7 @@
 # ¡Hola! Soy Leydi 😁
 
+<img src="/portada.jpg" alt="portada" width="500"/> </p>
+
 ---
 
 ¡Bienvenido a mi perfil de GitHub! Soy una persona creativa ✒️, organizada y orientada a los resultados. Me enorgullece mi capacidad para trabajar en equipo y colaborar estrechamente con mis clientes para garantizar su satisfacción en cada etapa del proyecto.
