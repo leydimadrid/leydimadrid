@@ -1,5 +1,3 @@
-# ¡Hola! Soy Leydi 😁
-
 <img src="/portada.jpg" alt="portada" width="1072"/> </p>
 
 ---
