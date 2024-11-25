@@ -1,10 +1,15 @@
-
-Hola! 👋 Soy Leydi
 <img src="/portada.jpg" alt="portada" width="1072"/> </p>
 
 ---
 
-¡Bienvenido a mi perfil de GitHub! Soy una persona creativa ✒️, organizada y orientada a los resultados. Me enorgullece mi capacidad para trabajar en equipo y colaborar estrechamente con mis clientes para garantizar su satisfacción en cada etapa del proyecto.
+¡# 👩‍💻 Sobre mí  
+
+¡Hola! 👋 Soy una **Diseñadora UI y Desarrolladora Frontend** apasionada por crear experiencias visuales atractivas y funcionales. 🌟  
+
+- ✨ **Siempre aprendiendo:** Me encanta explorar nuevas tecnologías y mejorar mis habilidades.  
+- 💻 **Apasionada por la programación:** Disfruto resolver problemas y transformar ideas en realidad digital.  
+- 🗂️ **Organizada y detallista:** Me aseguro de que cada proyecto esté estructurado y optimizado.  
+
 
 ## ⚒️ Lenguajes y herramientas:
 
@@ -16,14 +21,12 @@ Hola! 👋 Soy Leydi
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
-## 🚀 Sobre mí
 
-Soy apasionada por el desarrollo de soluciones innovadoras que resuelvan problemas reales. Mi objetivo es seguir aprendiendo y creciendo en el ámbito de la tecnología, contribuyendo a proyectos que marquen una diferencia positiva.
+¡Hablemos!  
+📫 **Contacto:** leydi.madrid6@gmail.com 
+**LinkedIn:** www.linkedin.com/in/leydimadrid
+🌐 **Portafolio:** [[Enlace aquí]](https://portafolioleydimadrid.netlify.app/)  
 
-## 📫 Contacto
-
-- Correo electrónico: leydi.madrid6@gmail.com
-- LinkedIn: www.linkedin.com/in/leydimadrid
 
 ---
 
