@@ -2,7 +2,7 @@
 
 ---
 
-¡# 👩‍💻 Sobre mí  
+#¡ 👩‍💻 Sobre mí  
 
 ¡Hola! 👋 Soy una **Diseñadora UI y Desarrolladora Frontend** apasionada por crear experiencias visuales atractivas y funcionales. 🌟  
 
@@ -24,7 +24,9 @@
 
 ¡Hablemos!  
 📫 **Contacto:** leydi.madrid6@gmail.com 
+
 **LinkedIn:** www.linkedin.com/in/leydimadrid
+
 🌐 **Portafolio:** [[Enlace aquí]](https://portafolioleydimadrid.netlify.app/)  
 
 
