@@ -15,7 +15,7 @@
 ¡Hablemos!  
 📫 **Contacto:** leydi.madrid6@gmail.com
 
-**LinkedIn:** www.linkedin.com/in/leydimadrid
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leydimadrid/)
 
 🌐 **Portafolio:** https://portafolioleydimadrid.netlify.app/
 
