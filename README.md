@@ -14,9 +14,7 @@
 
 ¡Hablemos!  
 📫 **Contacto:** leydi.madrid6@gmail.com 
-
 **LinkedIn:** www.linkedin.com/in/leydimadrid
-
 🌐 **Portafolio:** https://portafolioleydimadrid.netlify.app/
 
 
