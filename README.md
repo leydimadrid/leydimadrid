@@ -17,6 +17,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=leydi.madrid6@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leydimadrid/)
 [![Portafolio](https://img.shields.io/badge/Portafolio-Web-blue?style=for-the-badge)](https://portafolioleydimadrid.netlify.app/)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/LeydiMadrid)
 
 ---
 
