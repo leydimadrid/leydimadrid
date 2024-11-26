@@ -2,7 +2,7 @@
 
 ---
 
-#¡ 👩‍💻 Sobre mí  
+**👩‍💻 Sobre mí**
 
 ¡Hola! 👋 Soy una **Diseñadora UI y Desarrolladora Frontend** apasionada por crear experiencias visuales atractivas y funcionales. 🌟  
 
@@ -12,7 +12,7 @@
 
 
 
-##¡Hablemos!
+**¡Hablemos!**
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=leydi.madrid6@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leydimadrid/)
