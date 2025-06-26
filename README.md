@@ -2,14 +2,9 @@
 
 ---
 
-**👩‍💻 Sobre mí**
+**👩‍💻 Perfil*
 
-¡Hola! 👋 Soy una **Diseñadora UI y Desarrolladora Frontend** apasionada por crear experiencias visuales atractivas y funcionales. 🌟  
-
-- ✨ **Siempre aprendiendo:** Me encanta explorar nuevas tecnologías y mejorar mis habilidades.  
-- 💻 **Apasionada por la programación:** Disfruto resolver problemas y transformar ideas en realidad digital.  
-- 🗂️ **Organizada y detallista:** Me aseguro de que cada proyecto esté estructurado y optimizado.  
-
+Desarrolladora web con 1 año de experiencia en proyectos académicos, realizando funciones como diseño de interfaz de usuario, desarrollo frontend, diseño responsive, conexión Frontend - Backend, manejo de herramientas de control de versiones y trabajo colaborativo. Con dominio en HTML, CSS, JavaScript, Tailwind CSS, React JS, Figma, Git y Github, inglés A2 y competencias en trabajo en equipo, proactividad, gestión del tiempo, aprendizaje continuo y iniciativa.
 
 
 **¡Hablemos!**
