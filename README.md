@@ -1,7 +1,7 @@
 <img src="/portada.jpg" alt="portada" width="1072"/> </p>
 
 ---
-##👩‍💻 Perfil*
+##👩‍💻 Perfil
 
 Desarrolladora web con 1 año de experiencia en proyectos académicos, realizando funciones como diseño de interfaz de usuario, desarrollo frontend, diseño responsive, conexión Frontend - Backend, manejo de herramientas de control de versiones y trabajo colaborativo. Con dominio en HTML, CSS, JavaScript, Tailwind CSS, React JS, Figma, Git y Github, inglés A2 y competencias en trabajo en equipo, proactividad, gestión del tiempo, aprendizaje continuo y iniciativa.
 
